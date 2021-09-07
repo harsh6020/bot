@@ -1,0 +1,6 @@
+{
+	"ip":"HVSserver.aternos.me",
+	"port": "45235",
+	"name": "bot",
+	"auto-night-skip":"true"
+}
